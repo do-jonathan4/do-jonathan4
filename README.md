@@ -1,5 +1,5 @@
 <h1 align="center">Welcome</h1>
-<img src="https://c.tenor.com/il64k8diDuUAAAAC/ayaya-yeah.gif" margin-left='auto' margin-right='auto'>
+<img src="https://c.tenor.com/il64k8diDuUAAAAC/ayaya-yeah.gif" align="center">
 
 <h1 align="center">About Me</h1>
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
