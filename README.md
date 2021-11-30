@@ -34,7 +34,7 @@
 
 <h1 align="center">Links</h1>
 <div align="center">
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
   </a>
   <a href="https://www.youtube.com/" target="_blank">
