@@ -34,17 +34,14 @@
 
 <h1 align="center">Links</h1>
 <div align="center">
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://do-jonathan4.github.io/portfolio-v2/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-do4/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="jdo.dev45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black">
   </a>
 </div>
 
