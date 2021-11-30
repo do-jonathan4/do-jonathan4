@@ -1,4 +1,5 @@
 <h1 align="center">Welcome</h1>
+<div class="tenor-gif-embed" data-postid="12992329" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/ayaya-yeah-happy-hapinness-kiniro-gif-12992329">Ayaya Yeah GIF</a>from <a href="https://tenor.com/search/ayaya-gifs">Ayaya GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h1 align="center">About Me</h1>
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
