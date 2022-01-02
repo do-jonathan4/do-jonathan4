@@ -2,10 +2,10 @@
   <img src="https://c.tenor.com/il64k8diDuUAAAAC/ayaya-yeah.gif">
 
 ## About Me
-Fast learner and eager to explore new technologies. 
-Able to switch between perfectionism and pragmatism. 
-Believer in agile software development and team work. 
-Always questioning the status quo and wanting to improve. 
+Fast learner and eager to explore new technologies.<br>
+Able to switch between perfectionism and pragmatism.<br>
+Believer in agile software development and team work.<br>
+Always questioning the status quo and wanting to improve.<br> 
 Able and willing to think outside the box.
 
 ## Origin Story
