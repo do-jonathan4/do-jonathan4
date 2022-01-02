@@ -13,7 +13,7 @@ Before attending LearningFuze for web development, I worked as a respiratory the
 
 Although I enjoyed my work in the medical field, I often found myself wanting a gratifying and stimulating job solving tough problems and building applications. During COVID-19 the path became clear for me to pursue career in development. After dedicating a year of over 20 hours a week learning numerous languages and tools, I became a full-stack developer, and am eager to continue growing and pursuing tech.
 
-## Conect with ?e
+## Conect with Me
 [<img align="left" alt="Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin: 12px;"/>](https://do-jonathan4.github.io/portfolio-v2/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  style="margin: 12px;"/>](https://www.linkedin.com/in/jonathan-do4)
 [<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:jdo.dev45@gmail.com)
