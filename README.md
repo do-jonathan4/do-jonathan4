@@ -2,7 +2,11 @@
   <img src="https://c.tenor.com/il64k8diDuUAAAAC/ayaya-yeah.gif">
 
 ## About Me
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Fast learner and eager to explore new technologies. 
+Able to switch between perfectionism and pragmatism. 
+Believer in agile software development and team work. 
+Always questioning the status quo and wanting to improve. 
+Able and willing to think outside the box.
 
 ## Origin Story
 Before attending LearningFuze for web development, I worked as a respiratory therapist and polysomnographic technician. Besides the obvious need to be an effective communicator, I was regularly challenged to think outside of the box. I learned the importance of engaging others and to view medicine through a different lens. Patients, families and colleagues thanked me for going above and beyond to help, and I was happy knowing that I left them feeling empowered. 
