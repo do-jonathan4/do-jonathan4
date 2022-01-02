@@ -1,5 +1,5 @@
 ## Welcome
-[![Johns's github stats](https://github-readme-stats.vercel.app/api?username=do-jonathan4&count_private=true)](https://github-readme-stats.vercel.app/api?username=do-jonathan4&count_private=true)
+![Johns's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-jonathan4&count_private=true)
 
 ## About Me
 Fast learner and eager to explore new technologies.<br>
