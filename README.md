@@ -13,8 +13,13 @@ Before attending LearningFuze for web development, I worked as a respiratory the
 
 Although I enjoyed my work in the medical field, I often found myself wanting a gratifying and stimulating job solving tough problems and building applications. During COVID-19, the path became clear for me to pursue a career in development. After dedicating a year of over 20 hours a week learning numerous languages and tools, I became a full-stack developer, and am eager to continue growing and pursuing tech.
 
-## Conect with Me
-[<img align="left" alt="Portfolio Site" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" target="_blank" style="margin: 12px;"/>](https://do-jonathan4.github.io/portfolio/)
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  style="margin: 12px;"/>](mailto:d.johnt45@gmail.com)
-[<img align="left" alt="Resume" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/file.svg" style="margin: 12px;" />](https://docs.google.com/document/d/1ibGh1LyCNyhQd6TTkOQqThC8zV6wBAP4/export?format=pdf)
-
+## Connect with Me
+<a href="https://do-jonathan4.github.io/portfolio/" target="_blank">
+    <img src ="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="20px" style="margin: 10px;"/>
+</a>
+<a href="mailto:d.johnt45@gmail.com" target="_blank">
+    <img src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="20px" style="margin: 10px;"/>
+</a>
+<a href="https://docs.google.com/document/d/1ibGh1LyCNyhQd6TTkOQqThC8zV6wBAP4/export?format=pdf" target="_blank">
+    <img src ="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/file.svg" width="20px" style="margin: 10px;"/>
+</a>
